@@ -1,11 +1,11 @@
 ---
 layout: page
-title: FAQs
+title: FAQ
 include_in_header: true
 ---
 
 
-# Frequently Asked Questions (FAQs)
+# Frequently Asked Questions (FAQ)
 
 
 ## I can't login to Twitter within the app – what can I do?
