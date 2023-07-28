@@ -6,6 +6,9 @@ include_in_header: true
 
 # What's New
 
+## 🐞 [1.0.3] - 2023-07-28
+
+- Fixed the broken Twitter connection which was caused by a bug in Twitter's authentication workflow.
 
 ## 🐞 [1.0.2] - 2023-06-22
 
