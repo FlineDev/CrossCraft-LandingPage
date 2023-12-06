@@ -70,13 +70,13 @@ features                                  :
 
 
 # Theme Settings
-topbar_color                              : "#000000"
-topbar_transparency                       : 0.1
+topbar_color                              : "#091B30"
+topbar_transparency                       : 0.35
 topbar_title_color                        : "#ffffff"
 
 cover_image                               : assets/headerimage.jpg                    # Replace with alternative image path or image URL.
-cover_overlay_color                       : "#363b3d"
-cover_overlay_transparency                : 0.33
+cover_overlay_color                       : "#0E2840"
+cover_overlay_transparency                : 0.77
 
 device_color                              : gray                                     # Set to: gold, gray, purple, or silver.
 
