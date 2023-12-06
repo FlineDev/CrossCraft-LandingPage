@@ -394,14 +394,16 @@ nav > ul li a:active {
 
 .videoContainer {
 	width: 355px;
-	height: 770;
+	height: 766;
 	margin-left: 22px;
 	margin-top: 23px;
+
 }
 
 .videoContainer > video {
 	width: 355px;
-	height: 768px;
+	height: 766px;
+	border-radius: 30px;
 }
 
 @media only screen and (max-width: 1070px) {
@@ -452,7 +454,7 @@ nav > ul li a:active {
 		width: 230px;
 		height: 500px;
 		margin-left: 0px;
-		margin-top: 15px;
+		margin-top: 14px;
 	}
 
 	.videoContainer > video {
