@@ -38,7 +38,7 @@ features                                  :
 
   - title                                 : Varied Topics
     description                           : Dive into an extensive range of topics from categories like General Knowledge (like Pop Culture), Movie Franchises (like Harry Potter), Sports (like Football), or Programming (like Flutter).
-    fontawesome_icon_name                 : lightbulb-o
+    fontawesome_icon_name                 : lightbulb
     
   - title                                 : Personalized Puzzles
     description                           : Blend provided topics with your own question-answer pairs to craft unique and meaningful crosswords, perfect for educators, parents, or event organizers.
@@ -50,7 +50,7 @@ features                                  :
 
   - title                                 : Adjustable Difficulty
     description                           : Tailor the challenge with 3 difficulty levels, ensuring fun and engagement for all ages and skill levels.
-    fontawesome_icon_name                 : sliders
+    fontawesome_icon_name                 : sliders-h
 
   - title                                 : Play Anytime, Anywhere
     description                           : Engage with crosswords directly within the app, whether you're online or offline, thanks to local on-device generation.
