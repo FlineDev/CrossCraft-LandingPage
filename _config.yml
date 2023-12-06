@@ -2,18 +2,18 @@
 page_title                                : Twoot it! – Schedule Posts                                          # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
-ios_app_id                                : 1660521050                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
+ios_app_id                                : 6472669260                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 ios_app_country                           : us                                        # Required outside USA. Enter 2 letter country code as in https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
 
-appstore_link                             : https://apps.apple.com/app/apple-store/id1660521050?pt=549314&ct=twoot-it.app&mt=8                                          # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
+appstore_link                             : https://apps.apple.com/us/app/crosscraft-custom-crosswords/id6472669260?ct=crosscraft.app                                          # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
 playstore_link                            :                                           # Enter Google Play Store URL.
-presskit_download_link                    : https://github.com/FlineDev/Twoot-it-LandingPage/raw/main/downloads/PressKit-v1.0.zip                                          # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file).
+presskit_download_link                    : https://github.com/FlineDev/CrossCraft-LandingPage/raw/main/downloads/PressKit-v1.0.zip                                          # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file).
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  : assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name                                  : Twoot it! – Schedule Posts                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_name                                  : CrossCraft: Custom Crosswords                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : "Freemium"                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Cross-Post to Twitter & Mastodon
+app_description                           : Create Personalized Puzzles!
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -21,49 +21,52 @@ enable_smart_app_banner                   : true                                
 
 # Information About Yourself
 your_name                                 : Cihat Gündüz                                
-your_link                                 : https://fline.dev/about/?ref=twoot-it.app
+your_link                                 : https://fline.dev/about/?ref=crosscraft.app
 your_city                                 : the EU 🇪🇺                                
-email_address                             : twoot.it@fline.dev
+email_address                             : crosscraft@fline.dev
 facebook_username                         :                                           
 instagram_username                        : 
-twitter_username                          : Twoot_it
+twitter_username                          : CrossCraftApp
 github_username                           : Jeehut
 youtube_username                          : FlineDev
-mastodon_link                             : https://iosdev.space/@Twoot_it
+mastodon_link                             : https://iosdev.space/@CrossCraftApp
 
 
 
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Cross-Post to Twitter and Mastodon
-    description                           : Post updates to Twitter and Mastodon simultaneously, from a single app.
-    fontawesome_icon_name                 : random
+  - title                                 : Varied Topics
+    description                           : Dive into an extensive range of topics from categories like General Knowledge (like Pop Culture), Movie Franchises (like Harry Potter), Sports (like Football), or Programming (like Flutter).
+    fontawesome_icon_name                 : lightbulb-o
     
-  - title                                 : Image and Video Attachments
-    description                           : Enhance your social media posts, making your moments more engaging and compelling.
-    fontawesome_icon_name                 : paperclip
+  - title                                 : Personalized Puzzles
+    description                           : Blend provided topics with your own question-answer pairs to craft unique and meaningful crosswords, perfect for educators, parents, or event organizers.
+    fontawesome_icon_name                 : puzzle-piece
 
-  - title                                 : Interactive Polls
-    description                           : Empower audience participation and gather insights with poll support, fostering engagement and sparking discussions.
-    fontawesome_icon_name                 : poll
+  - title                                 : Multiple Sizes and Shapes
+    description                           : Choose from 5 sizes (XS to XL) and 3 shapes (square, portrait, landscape) to suit any occasion or challenge level.
+    fontawesome_icon_name                 : expand
 
-  - title                                 : Schedule Posts
-    description                           : Take control of your social media presence by scheduling posts for later, ensuring consistent and timely content delivery.
-    fontawesome_icon_name                 : clock
+  - title                                 : Adjustable Difficulty
+    description                           : Tailor the challenge with 3 difficulty levels, ensuring fun and engagement for all ages and skill levels.
+    fontawesome_icon_name                 : sliders
 
-  - title                                 : Tailor Your Posts for Each Platform
-    description                           : Customize posts with platform-specific text replacements, avoiding dead links.
-    fontawesome_icon_name                 : bullseye
+  - title                                 : Play Anytime, Anywhere
+    description                           : Engage with crosswords directly within the app, whether you're online or offline, thanks to local on-device generation.
+    fontawesome_icon_name                 : mobile
 
-  - title                                 : FREE tier available
-    description                           : Cross-post for free by sharing your Mastodon post to Twitter through a built-in workaround.
-    fontawesome_icon_name                 : piggy-bank
+  - title                                 : Export and Share
+    description                           : Easily export and share your creations, or print them out for physical play. Ideal for special events like birthdays, Christmas gatherings, and more.
+    fontawesome_icon_name                 : share-alt
 
-  - title                                 : # New Feature Title
-    description                           : # New Feature Description
-    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
+  - title                                 : Limitless Possibilities
+    description                           : With unlimited crossword generation, your puzzle potential is endless.
+    fontawesome_icon_name                 : infinity
 
+  - title                                 : Inclusive Language Support
+    description                           : Enjoy the app and its puzzles in 7 different languages, making it accessible and enjoyable for a diverse global audience.
+    fontawesome_icon_name                 : globe
 
 
 # Theme Settings
